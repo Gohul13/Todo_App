@@ -82,15 +82,6 @@ flutter run
 
  - Task CRUD operations tested across screen sizes
 
-### 📂 Folder Structure
-
-lib/
-├── models/              # Task models
-├── viewmodels/          # State & business logic
-├── views/               # Screens & widgets
-├── services/            # Firebase, Google Sign-in services
-├── theme/               # Light and dark theme setup
-└── main.dart            # Entry point
 ### 🏁 Final Notes
  - Code is modular, readable, and scalable
 
